@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/random-pick/static/css/main.e31d3e9c.chunk.css",
+    "main.js": "/random-pick/static/js/main.3da6e2d5.chunk.js",
+    "main.js.map": "/random-pick/static/js/main.3da6e2d5.chunk.js.map",
+    "runtime-main.js": "/random-pick/static/js/runtime-main.3f6330ef.js",
+    "runtime-main.js.map": "/random-pick/static/js/runtime-main.3f6330ef.js.map",
+    "static/css/2.64a99b10.chunk.css": "/random-pick/static/css/2.64a99b10.chunk.css",
+    "static/js/2.1ac1699f.chunk.js": "/random-pick/static/js/2.1ac1699f.chunk.js",
+    "static/js/2.1ac1699f.chunk.js.map": "/random-pick/static/js/2.1ac1699f.chunk.js.map",
+    "index.html": "/random-pick/index.html",
+    "precache-manifest.df18a42f6c339bf5e6a40c74d6233481.js": "/random-pick/precache-manifest.df18a42f6c339bf5e6a40c74d6233481.js",
+    "service-worker.js": "/random-pick/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/random-pick/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.e31d3e9c.chunk.css.map": "/random-pick/static/css/main.e31d3e9c.chunk.css.map",
+    "static/js/2.1ac1699f.chunk.js.LICENSE": "/random-pick/static/js/2.1ac1699f.chunk.js.LICENSE",
+    "static/media/clear-24px.svg": "/random-pick/static/media/clear-24px.6a19414b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6330ef.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.1ac1699f.chunk.js",
+    "static/css/main.e31d3e9c.chunk.css",
+    "static/js/main.3da6e2d5.chunk.js"
+  ]
+}
