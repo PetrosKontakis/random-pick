@@ -1,5 +1,5 @@
 ## Live preview
-[Random picker](https://petroskontakis.github.io/random-pick)
+[Random picker](https://petroskontakis.github.io/random-pick/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
